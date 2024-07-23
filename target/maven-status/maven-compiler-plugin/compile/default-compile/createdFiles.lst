@@ -1,0 +1,5 @@
+com\ashokit\service\FormDataService.class
+com\ashokit\controller\FormDataController.class
+com\ashokit\entity\FormData.class
+com\ashokit\repository\FormDataRepository.class
+com\ashokit\MyPortfolio1Application.class
